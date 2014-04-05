@@ -51,3 +51,8 @@ Have you changed the pe_Config.pl file lately? There might be a syntax error (mo
 
 Cannot write new posts/comments... Does the webserver have the permission to write into the /posts and /comments folder?      
 See making the posts and comments folder writeable above
+
+Pretty Current Example :
+   http://doitrightcomputing.com/
+   email: jeremeyhustman@gmail
+   hint: please contact me
